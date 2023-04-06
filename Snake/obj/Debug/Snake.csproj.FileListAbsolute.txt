@@ -1,0 +1,11 @@
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.pdb
