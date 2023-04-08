@@ -22,6 +22,7 @@ namespace Snake
         private int Points = 0;
         PictureBox oPicureBox;
         Label lbPoint;
+        Timer timeInterval; 
         private int InitialPositionX
         {
             get
@@ -50,10 +51,11 @@ namespace Snake
             }
         }
 
-        public Game(PictureBox oPictureBox, Label lbPoint)
+        public Game(PictureBox oPictureBox, Label lbPoint, Timer timeInterval)
         {
             this.oPicureBox = oPictureBox;
             this.lbPoint = lbPoint;
+            this.timeInterval = timeInterval;
             Reset();
         }
 
@@ -81,12 +83,12 @@ namespace Snake
                 for (int i = 0; i < lengthMap; i++)
                 {
                     if (Snake.Where(d => d.X == i && d.Y == j).Count() > 0) 
-                        PaintPixel(bmp, i, j, Color.Black);
-                    else PaintPixel(bmp, i, j, Color.White);
+                        PaintPixel(bmp, i, j, Color.Red);
+                    else PaintPixel(bmp, i, j, Color.Black);
                     
                 }
             }
-            if (Food != null) PaintPixel(bmp,Food.X,Food.Y, Color.Green);
+            if (Food != null) PaintPixel(bmp,Food.X,Food.Y, Color.Red);
             oPicureBox.Image= bmp;
 
             lbPoint.Text = Points.ToString();
@@ -115,6 +117,8 @@ namespace Snake
                     if (Snake[0].Y == 0) Snake[0].Y = lengthMap - 1;
                     else Snake[0].Y--;
                     break;
+              
+
             }
             GetNextMoveSnake();
             SnakeEating();
@@ -146,6 +150,11 @@ namespace Snake
                 Square lastSquare = Snake[Snake.Count-1];
                 Square oSquare = new Square(lastSquare.X_old, lastSquare.Y_old);
                 Snake.Add(oSquare);
+                if(timeInterval.Interval == 5)
+                {
+                    timeInterval.Interval += 5; 
+                }
+                timeInterval.Interval -= 5;
 
             }
         }

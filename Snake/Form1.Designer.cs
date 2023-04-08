@@ -45,16 +45,18 @@
             // 
             this.pictureBox1.Location = new System.Drawing.Point(13, 13);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(300, 300);
+            this.pictureBox1.Size = new System.Drawing.Size(300, 314);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // btnStar
             // 
+            this.btnStar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnStar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStar.ForeColor = System.Drawing.Color.Orange;
-            this.btnStar.Location = new System.Drawing.Point(242, 319);
+            this.btnStar.Location = new System.Drawing.Point(332, 295);
             this.btnStar.Name = "btnStar";
-            this.btnStar.Size = new System.Drawing.Size(71, 23);
+            this.btnStar.Size = new System.Drawing.Size(71, 32);
             this.btnStar.TabIndex = 1;
             this.btnStar.Text = "start";
             this.btnStar.UseVisualStyleBackColor = true;
@@ -63,10 +65,11 @@
             // lbPoints
             // 
             this.lbPoints.AutoSize = true;
+            this.lbPoints.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbPoints.ForeColor = System.Drawing.Color.DarkOrange;
-            this.lbPoints.Location = new System.Drawing.Point(17, 323);
+            this.lbPoints.Location = new System.Drawing.Point(373, 13);
             this.lbPoints.Name = "lbPoints";
-            this.lbPoints.Size = new System.Drawing.Size(13, 13);
+            this.lbPoints.Size = new System.Drawing.Size(30, 31);
             this.lbPoints.TabIndex = 2;
             this.lbPoints.Text = "0";
             // 
@@ -74,11 +77,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(334, 361);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.ClientSize = new System.Drawing.Size(415, 349);
             this.Controls.Add(this.lbPoints);
             this.Controls.Add(this.btnStar);
             this.Controls.Add(this.pictureBox1);
-            this.ForeColor = System.Drawing.Color.FloralWhite;
+            this.ForeColor = System.Drawing.Color.Orange;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "Snake";

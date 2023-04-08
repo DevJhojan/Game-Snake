@@ -25,9 +25,10 @@ namespace Snake
 
         private void btnStar_Click(object sender, EventArgs e)
         {
-            oGame = new Game(pictureBox1,lbPoints);
+            oGame = new Game(pictureBox1,lbPoints, timer1);
 
             timer1.Enabled= true;
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -36,6 +37,7 @@ namespace Snake
             {
                 oGame.Next();
                 oGame.Show();
+
             }
             else
             {
