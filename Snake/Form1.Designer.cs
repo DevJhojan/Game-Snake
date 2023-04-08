@@ -53,7 +53,7 @@
             // 
             this.btnStar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnStar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStar.ForeColor = System.Drawing.Color.Orange;
+            this.btnStar.ForeColor = System.Drawing.Color.Red;
             this.btnStar.Location = new System.Drawing.Point(332, 295);
             this.btnStar.Name = "btnStar";
             this.btnStar.Size = new System.Drawing.Size(71, 32);
@@ -66,7 +66,7 @@
             // 
             this.lbPoints.AutoSize = true;
             this.lbPoints.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbPoints.ForeColor = System.Drawing.Color.DarkOrange;
+            this.lbPoints.ForeColor = System.Drawing.Color.Red;
             this.lbPoints.Location = new System.Drawing.Point(373, 13);
             this.lbPoints.Name = "lbPoints";
             this.lbPoints.Size = new System.Drawing.Size(30, 31);
