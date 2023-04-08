@@ -33,12 +33,13 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnStar = new System.Windows.Forms.Button();
             this.lbPoints = new System.Windows.Forms.Label();
+            this.btnClose = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // timer1
             // 
-            this.timer1.Interval = 200;
+            this.timer1.Interval = 300;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // pictureBox1
@@ -73,12 +74,26 @@
             this.lbPoints.TabIndex = 2;
             this.lbPoints.Text = "0";
             // 
+            // btnClose
+            // 
+            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClose.ForeColor = System.Drawing.Color.Crimson;
+            this.btnClose.Location = new System.Drawing.Point(332, 245);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(71, 32);
+            this.btnClose.TabIndex = 3;
+            this.btnClose.Text = "Close";
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(415, 349);
+            this.Controls.Add(this.btnClose);
             this.Controls.Add(this.lbPoints);
             this.Controls.Add(this.btnStar);
             this.Controls.Add(this.pictureBox1);
@@ -101,6 +116,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnStar;
         private System.Windows.Forms.Label lbPoints;
+        private System.Windows.Forms.Button btnClose;
     }
 }
 

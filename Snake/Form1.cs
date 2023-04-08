@@ -54,5 +54,10 @@ namespace Snake
             if (e.KeyCode == Keys.A || e.KeyCode == Keys.NumPad4) oGame.ActualDirection = Game.Direction.Left;
             if (e.KeyCode == Keys.S || e.KeyCode == Keys.NumPad2) oGame.ActualDirection = Game.Direction.Down;
         }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
