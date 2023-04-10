@@ -42,8 +42,11 @@ namespace Snake
             else
             {
                 timer1.Enabled= false;
+                timer1.Interval = 300;
+
                 MessageBox.Show("Has Perdido");
 
+                
             } 
         }
 
