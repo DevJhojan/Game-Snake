@@ -13,3 +13,17 @@ C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\bin\Debug\Snake.exe.manifest
 C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\bin\Debug\Snake.application
 C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.exe.manifest
 C:\Users\Jhojan Toro\WorkSpace\Games\Snake\Snake\obj\Debug\Snake.application
+C:\Users\devto\workspace\Snake-Game\Snake\bin\Debug\Snake.exe.config
+C:\Users\devto\workspace\Snake-Game\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\devto\workspace\Snake-Game\Snake\bin\Debug\Snake.application
+C:\Users\devto\workspace\Snake-Game\Snake\bin\Debug\Snake.exe
+C:\Users\devto\workspace\Snake-Game\Snake\bin\Debug\Snake.pdb
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.application
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.exe
+C:\Users\devto\workspace\Snake-Game\Snake\obj\Debug\Snake.pdb

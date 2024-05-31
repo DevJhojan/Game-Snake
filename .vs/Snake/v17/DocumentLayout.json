@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devto\\workspace\\Snake-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Snake||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1A8A5-F729-4CF5-93D9-4F691BF1B13E}|Snake\\Snake.csproj|c:\\users\\devto\\workspace\\snake-game\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BA1A8A5-F729-4CF5-93D9-4F691BF1B13E}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1A8A5-F729-4CF5-93D9-4F691BF1B13E}|Snake\\Snake.csproj|C:\\Users\\devto\\workspace\\Snake-Game\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA1A8A5-F729-4CF5-93D9-4F691BF1B13E}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1A8A5-F729-4CF5-93D9-4F691BF1B13E}|Snake\\Snake.csproj|C:\\Users\\devto\\workspace\\Snake-Game\\snake\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA1A8A5-F729-4CF5-93D9-4F691BF1B13E}|Snake\\Snake.csproj|solutionrelative:snake\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1A8A5-F729-4CF5-93D9-4F691BF1B13E}|Snake\\Snake.csproj|c:\\users\\devto\\workspace\\snake-game\\snake\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 259,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake",
+              "DocumentMoniker": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Snake.csproj",
+              "RelativeDocumentMoniker": "Snake\\Snake.csproj",
+              "ToolTip": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Snake.csproj",
+              "RelativeToolTip": "Snake\\Snake.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T15:09:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Form1.cs",
+              "RelativeDocumentMoniker": "Snake\\Form1.cs",
+              "ToolTip": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Snake\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:57:43.139Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Form1.cs",
+              "RelativeDocumentMoniker": "Snake\\Form1.cs",
+              "ToolTip": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Form1.cs",
+              "RelativeToolTip": "Snake\\Form1.cs",
+              "ViewState": "AQIAACoAAAAAGM3MzMz0vywAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:57:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Game.cs",
+              "RelativeDocumentMoniker": "Snake\\Game.cs",
+              "ToolTip": "C:\\Users\\devto\\workspace\\Snake-Game\\Snake\\Game.cs",
+              "RelativeToolTip": "Snake\\Game.cs",
+              "ViewState": "AQIAAIYAAAAAaGZmZmYrwJgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:57:43.48Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
